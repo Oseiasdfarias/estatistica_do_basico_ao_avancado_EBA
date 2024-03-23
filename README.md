@@ -29,5 +29,6 @@
     <p>
     <li>👨🏾‍💻 <a href="./python_basico/introducao_pandas.ipynb">Introdução ao Pandas</a></li>
     <li>👨🏾‍💻 <a href="./python_basico/introducao_numpy.ipynb">Introdução ao NumPy</a></li>
+    <li>👨🏾‍💻 <a href="./python_basico/plotly_introducao.ipynb">Introdução ao Plotly</a></li>
   </ul>
 </p>
