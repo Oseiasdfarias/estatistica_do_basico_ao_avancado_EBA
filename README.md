@@ -37,6 +37,6 @@
     <p>
     <li>👨🏾‍💻 <a href="./estatistica_descritiva_house_pricing.ipynb">Caso de estudo: House Price - Análise Usando Estatística Descritiva</a></li>
     <li>👨🏾‍💻 <a href="./python_basico/introducao_numpy.ipynb">Estudo de Caso: Desafio Análise de Dados iFood</a></li>
-    <li>👨🏾‍💻 <a href="./atividades/1.0_estatistica_descritiva/1.0_Desafio_Ifood.ipynb">Introdução ao Plotly</a></li>
+    <li>👨🏾‍💻 <a href="./atividades/1.0_estatistica_descritiva">Introdução ao Plotly</a></li>
   </ul>
 </p>
