@@ -31,7 +31,6 @@
     <li>👨🏾‍💻 <a href="./python_basico/introducao_numpy.ipynb">Introdução ao NumPy</a></li>
     <li>👨🏾‍💻 <a href="./python_basico/plotly_introducao.ipynb">Introdução ao Plotly</a></li>
   </ul>
-
    <ul>
     <h3>Estatística Descritiva</h3>
     <p>
